@@ -1,0 +1,94 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    padding: 1rem 1rem;
+}
+
+.carouselImg {
+    width: 450px;
+    height: 293px;
+}
+
+span.navIconMobile {
+    color: white;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+button.coolStuffBtn {
+    display: block;
+    margin: auto;
+    background-color: white;
+}
+
+div.coolStuffWrapper {
+    margin-top: 1rem;
+}
+
+img.footballLogo {
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+img.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.sectionImages {
+    padding: 2rem;
+}
+
+button.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top:1rem;
+    margin-bottom:1rem;
+    width: 75%;
+}
+
+img.imgStyle {
+    width: 265px;
+    height: 190px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+
+img.imgFooter {
+    width: 30%;
+}
+
+.fa{
+    margin: 10px;
+}
+
+a.i {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
